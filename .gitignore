@@ -1,0 +1,29 @@
+# Ignorar fotos de entrenamiento
+/dataset/
+/images/
+/photos/
+
+# Ignorar modelos entrenados
+/models/
+*.h5
+*.pth
+*.pkl
+
+# Ignorar archivos secretos
+.env
+*.key
+*.json
+
+# Ignorar basura de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar entorno virtual
+venv/
+env/
+
+# Ignorar configuraciones locales de VS Code
+.vscode/
+
+*.dat
