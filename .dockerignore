@@ -1,0 +1,21 @@
+# Entornos virtuales
+venv/
+venv310/
+
+# Archivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos del sistema o IDE
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# Control de versiones
+.git/
+.gitignore
+
+# Archivos de entorno
+.env
