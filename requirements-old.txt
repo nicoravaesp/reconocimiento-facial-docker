@@ -1,5 +1,0 @@
-Flask==2.3.3
-face_recognition==1.3.0
-opencv-python==4.5.5.64
-numpy==1.23.5
-gdown==4.7.1
